@@ -14,6 +14,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## How to install
 
+## How to run
+
 ## Dependencies
 
 "dependencies": {
