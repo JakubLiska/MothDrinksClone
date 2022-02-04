@@ -14,7 +14,14 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## How to install
 
+Step 1. Download and install [Node.js](https://nodejs.org/en/download/) from official site.
+Step 2. Verify installation process by running `node -v` and `npm -v`.
+Step 3. Run `npm install` from main project directory to install all dependencies.
+Step 4. Run `ng build` or `npm run ng build` to build the project.
+
 ## How to run
+
+Step 1. Run `ng serve` in terminal.
 
 ## Dependencies
 
