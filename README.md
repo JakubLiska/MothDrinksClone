@@ -14,57 +14,50 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## How to install
 
-Step 1. Download and install [Node.js](https://nodejs.org/en/download/) from official site.
-Step 2. Verify installation process by running `node -v` and `npm -v`.
-Step 3. Run `npm install` from main project directory to install all dependencies.
-Step 4. Run `ng build` or `npm run ng build` to build the project.
+Step 1. Download and install [Node.js](https://nodejs.org/en/download/) from official site. <br />
+Step 2. Verify installation process by running `node -v` and `npm -v`. <br />
+Step 3. Run `npm install` from main project directory to install all dependencies. <br />
+Step 4. Run `ng build` or `npm run ng build` to build the project. <br />
 
 ## How to run
 
-Step 1. Run `ng serve` in terminal.
+Step 1. Run `ng serve` in terminal. <br />
+Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files. <br />
 
 ## Dependencies
 
-"dependencies": {
-"@angular/animations": "~13.0.0",
-"@angular/common": "~13.0.0",
-"@angular/compiler": "~13.0.0",
-"@angular/core": "~13.0.0",
-"@angular/forms": "~13.0.0",
-"@angular/platform-browser": "~13.0.0",
-"@angular/platform-browser-dynamic": "~13.0.0",
-"@angular/router": "~13.0.0",
-"rxjs": "~7.4.0",
-"tailwindcss": "^3.0.18",
-"tslib": "^2.3.0",
-"zone.js": "~0.11.4"
+"dependencies": { <br />
+"@angular/animations": "~13.0.0", <br />
+"@angular/common": "~13.0.0", <br />
+"@angular/compiler": "~13.0.0", <br />
+"@angular/core": "~13.0.0", <br />
+"@angular/forms": "~13.0.0", <br />
+"@angular/platform-browser": "~13.0.0", <br />
+"@angular/platform-browser-dynamic": "~13.0.0", <br />
+"@angular/router": "~13.0.0", <br />
+"rxjs": "~7.4.0", <br />
+"tailwindcss": "^3.0.18", <br />
+"tslib": "^2.3.0", <br />
+"zone.js": "~0.11.4" <br />
 },
 "devDependencies": {
-"@angular-devkit/build-angular": "~13.0.4",
-"@angular/cli": "~13.0.4",
-"@angular/compiler-cli": "~13.0.0",
-"@types/jasmine": "~3.10.0",
-"@types/node": "^12.11.1",
-"jasmine-core": "~3.10.0",
-"karma": "~6.3.0",
-"karma-chrome-launcher": "~3.1.0",
-"karma-coverage": "~2.0.3",
-"karma-jasmine": "~4.0.0",
-"karma-jasmine-html-reporter": "~1.7.0",
-"typescript": "~4.4.3"
+"@angular-devkit/build-angular": "~13.0.4", <br />
+"@angular/cli": "~13.0.4", <br />
+"@angular/compiler-cli": "~13.0.0", <br />
+"@types/jasmine": "~3.10.0", <br />
+"@types/node": "^12.11.1", <br />
+"jasmine-core": "~3.10.0", <br />
+"karma": "~6.3.0", <br />
+"karma-chrome-launcher": "~3.1.0", <br />
+"karma-coverage": "~2.0.3",<br />
+"karma-jasmine": "~4.0.0",<br />
+"karma-jasmine-html-reporter": "~1.7.0",<br />
+"typescript": "~4.4.3"<br />
 }
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
 ## Running unit tests
 
