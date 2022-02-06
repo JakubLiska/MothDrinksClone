@@ -1,0 +1,30 @@
+## Devices size for RWD.
+
+sm	640px
+md	768px
+lg	1024px
+xl	1280px
+2xl	1536px
+
+## Font colors & size
+Background color:
+    background-color: rgb (9,9,9);
+
+Font colors:
+    Gray color rgb (131, 131, 126);
+    White color: rgb (255,255,255);
+
+Font sizes:
+
+## Other colors
+Moth colors:
+    Espresso martini:
+        rgb(236, 171, 92);
+    Old fashioned:
+        rgb(255, 150, 21);
+    Margarita:
+        rgb(201, 239, 96);
+    Negroni:
+        rgb(255, 64, 26);
+
+## Buttons
