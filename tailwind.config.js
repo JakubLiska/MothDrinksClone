@@ -7,6 +7,16 @@ module.exports = {
     // fontFamily: {
     //   poly: ["polysansslim"],
     // },
+    screens: {
+      md: "738px",
+      // => @media (min-width: 738px) { ... }
+
+      lg: "1300px",
+      // => @media (min-width: 1300px) { ... }
+
+      xl: "1440px",
+      // => @media (min-width: 1440px) { ... }
+    },
     fontSize: {
       nav: ["25px", "1.1"],
     },

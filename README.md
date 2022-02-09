@@ -3,7 +3,9 @@
 Hello there!
 We would like to introduce you to our Moth Drinks web page clone.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
+This project was created to improve and exhibit our skillset with technologies listed below.
+
+Please notice that fonts might differ a little as original ones are not free.
 
 ## Tech stack
 
@@ -17,7 +19,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Step 1. Download and install [Node.js](https://nodejs.org/en/download/) from official site. <br />
 Step 2. Verify installation process by running `node -v` and `npm -v`. <br />
 Step 3. Run `npm install` from main project directory to install all dependencies. <br />
-Step 4. Run `ng build` or `npm start` to build the project. <br />
+Step 4. Run `ng build` or `npm run build` to build the project. <br />
 
 ## How to run
 
