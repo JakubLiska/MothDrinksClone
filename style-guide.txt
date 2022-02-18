@@ -1,7 +1,8 @@
-## Devices size for RWD.
-    md: "738px",
-    lg: "1300px",
-    xl: "1440px",
+## Devices size for RWD. Up tp: "...px".
+    sm: "738px",
+    md: "1300px",
+    lg: "1440px",
+    xl: "4000px",
 
 ## Font colors & size
     Background color:

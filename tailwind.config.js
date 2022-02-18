@@ -8,14 +8,17 @@ module.exports = {
     //   poly: ["polysansslim"],
     // },
     screens: {
-      md: "738px",
-      // => @media (min-width: 738px) { ... }
+      sm: { max: "738px" },
+      // => @media (max-width: 200px) { ... }
 
-      lg: "1300px",
-      // => @media (min-width: 1300px) { ... }
+      md: { max: "1300px" },
+      // => @media (max-width: 738px) { ... }
 
-      xl: "1440px",
-      // => @media (min-width: 1440px) { ... }
+      lg: { max: "1440px" },
+      // => @media (max-width: 1440px) { ... }
+
+      xl: { max: "4000px" },
+      // => @media (max-width: 4000px) { ... }
     },
     fontSize: {
       nav: ["25px", "1.1"],
@@ -25,6 +28,7 @@ module.exports = {
     },
     maxWidth: {
       1440: "1440px",
+      1376: "1376px",
     },
     extend: {
       spacing: {
